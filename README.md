@@ -1,1 +1,1 @@
-# simple-calculator-on-c-with-QT
+# simple-calculator-on-c++-with-QT
