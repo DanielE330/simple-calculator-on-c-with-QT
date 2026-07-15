@@ -1,1 +1,20 @@
-# simple-calculator-on-c++-with-QT
+# 🧮 simple-calculator-on-c++-with-QT
+
+> Простой калькулятор с графическим интерфейсом на C++/Qt.
+
+---
+
+## ✨ Возможности
+
+- Базовые операции: сложение, вычитание, умножение, деление
+- Проценты и смена знака числа (`+/-`, `%`)
+- GUI на виджетах Qt (`mainwindow.ui`)
+
+## 🏃 Запуск
+
+```bash
+qmake calculator.pro
+make
+```
+
+Либо открыть `calculator.pro` в Qt Creator и запустить оттуда.
